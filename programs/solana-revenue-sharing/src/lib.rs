@@ -6,7 +6,6 @@ pub use state::*;
 use anchor_lang::prelude::*;
 
 use instructions::*;
-// declare_id!("HdWuDYmr65hnPnSs11Z9XQQcJ2Tmqz6y37y9TMdSQeDS");
 declare_id!("Faw7JrUgvfqjezMFaWhhMC8fVTP41mfUAypeWPP4tGyJ");
 
 #[program]
