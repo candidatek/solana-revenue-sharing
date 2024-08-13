@@ -1,5 +1,10 @@
 {
     // other settings
     "github.copilot.editor.enableAutoCompletions": false,
+    "cSpell.words": [
+        "pubkey",
+        "solana",
+        "unstaked"
+    ],
     // other settings
 }

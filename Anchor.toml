@@ -1,14 +1,14 @@
 [features]
 seeds = false
 skip-lint = false
-[programs.localnet]
-solana_revenue_sharing = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+solana_revenue_sharing = "Faw7JrUgvfqjezMFaWhhMC8fVTP41mfUAypeWPP4tGyJ"
 
 [registry]
-url = "https://api.apr.dev"
+url = "https://api.devnet.solana.com/"
 
 [provider]
-cluster = "Localnet"
+cluster = "Devnet"
 wallet = "/Users/shriharikulkarni/.config/solana/id.json"
 
 [scripts]
